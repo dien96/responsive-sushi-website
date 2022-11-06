@@ -1,6 +1,7 @@
-# Responsive Sushi Website
+# Responsive Sushi Website (FE learning project)
 ## [Watch it on youtube](https://youtu.be/HW1zt2EPMqY)
 ### Responsive Sushi Website
+### [Check The Final Result](https://dien-sushi.netlify.app/)
 
 - Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
 - Includes a dark and light mode.
